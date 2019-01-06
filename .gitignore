@@ -4,6 +4,7 @@
 # production
 /node_modules
 .cache
+/public
 
 # misc
 .DS_Store
